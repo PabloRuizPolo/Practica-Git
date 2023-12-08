@@ -9,3 +9,4 @@ Como también perdonamos los de los otros geeks
 No nos dejes caer en el *detached HEAD*
 y librano del *SVN*
 git commit --ammed
+
